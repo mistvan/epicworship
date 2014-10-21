@@ -169,7 +169,7 @@
 				<version>1.7</version>
 				<executions>
 					<execution>
-						<phase>package</phase>
+						<phase>none</phase>
 						<configuration>
 							<target>
 								<mkdir dir="target/${artifactId}-${version}" />
