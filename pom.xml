@@ -116,7 +116,7 @@
 					<!-- GUI exe -->
 					<execution>
 						<id>l4j-gui</id>
-						<phase>package</phase>
+						<phase>none</phase>
 						<goals>
 							<goal>launch4j</goal>
 						</goals>
